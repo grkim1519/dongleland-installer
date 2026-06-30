@@ -8,7 +8,7 @@
 ## 기능
 - Modrinth에서 허용 모드 자동 설치/업데이트
 - 셰이더팩 관리
-- Java/Fabric 자동 설치
+- Java/Fabric 자동 설치/업데이트
 
 ## 빌드 (개발자용)
 build.bat 실행
